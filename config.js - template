@@ -1,0 +1,9 @@
+exports.parms = {
+    listeningPort: 5000,
+    deviceTimeToLive: 60,
+    retryTime: 10,
+    mySqlHost: "localhost",
+    mySqlUser: "root",
+    mySqlPass: "",
+    mySqlName: "rinho_udp",
+}
